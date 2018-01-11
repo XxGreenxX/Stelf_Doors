@@ -3,7 +3,6 @@
 import socket
 
 
-
 def Menu_method():
     print "Digite = (1) Para fazer um scan apenas de portas principais"
     print "Digite = (2) Para fazer um scan completo de todas as portas"
